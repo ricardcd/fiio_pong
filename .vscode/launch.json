@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // F5 builds the project and runs it with the debugger attached.
+            "name": "Run Pong",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Pong/bin/Debug/net10.0-windows/Pong.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}/Pong",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ]
+}

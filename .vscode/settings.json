@@ -1,0 +1,4 @@
+{
+    // Tell C# Dev Kit which solution to load in the Solution Explorer.
+    "dotnet.defaultSolution": "Pong.sln"
+}

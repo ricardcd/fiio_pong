@@ -1,0 +1,8 @@
+{
+    // VS Code will offer to install these extensions when the folder is opened.
+    "recommendations": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.vscode-dotnet-runtime"
+    ]
+}
